@@ -20,4 +20,4 @@ CSS Style Sheet that removes unecessary elements from Tweedback chatboxes.
 1. Adjust browser-window with `ALT`-Key to remove whitespace
 
 ## End Result
-![End result](example.png | width=100)
+<img src="example.png" width="100">
