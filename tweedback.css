@@ -1,0 +1,72 @@
+.alert {
+	display: none;
+}
+
+.ql-editor {
+	display: none;
+}
+
+.card-footer {
+	display: none;
+}
+
+.card-header {
+	display: none;
+}
+
+#chatwall-sort-selector-btn {
+	display: none;
+}
+
+.cc-window.cc-banner {
+	display: none;
+}
+
+//background of overall screen
+.selected-content[_ngcontent-tweedback-c2] .background-box[_ngcontent-tweedback-c2] {
+	background-color: #f4f4f4;
+}
+
+//normal card color
+.card-body.user-input {
+    background-color: #ffffff;
+}
+
+//highlighted card color
+.post-highlight[_ngcontent-tweedback-c13] .parent-wrapper[_ngcontent-tweedback-c13] .parent-body[_ngcontent-tweedback-c13], .post-highlight[_ngcontent-tweedback-c13] .parent-wrapper[_ngcontent-tweedback-c13] .parent-body[_ngcontent-tweedback-c13] .card-body[_ngcontent-tweedback-c13], .post-highlight[_ngcontent-tweedback-c13] .parent-wrapper[_ngcontent-tweedback-c13] .parent-body[_ngcontent-tweedback-c13] .card-footer[_ngcontent-tweedback-c13], .post-highlight[_ngcontent-tweedback-c13] .parent-wrapper[_ngcontent-tweedback-c13] .parent-body[_ngcontent-tweedback-c13] .card-header[_ngcontent-tweedback-c13] {
+	background-color: #fef9f5;
+}
+
+//body font color
+body {
+	color: #2c3439;
+}
+
+
+nav {
+	display: none !important;
+}
+
+button.btn-create-post.btn.btn-primary.btn-raised.btn-circle.btn-bottom-fab.d-lg-none.d-print-none {
+	display: none;
+}
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.post-reply__stats.text-muted {
+    display: none;
+}
+
+.post-reply__toolbar.hidden-zen-mode {
+    display: none;
+}
+
+button.btn.btn-clear.btn-block {
+	display: none;
+}
+
+.locked-indicator {
+	display:none;
+}
